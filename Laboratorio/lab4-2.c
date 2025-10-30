@@ -1,3 +1,9 @@
+// Exercício: Escreva um programa que conta e mostra na tela o número de vezes em que o
+// número 7 é digitado pelo usuário. O programa lê números inteiros até que o número -1
+// seja digitado.
+
+// Faça utilizando do while.
+
 #include <stdio.h>
 #include <stdlib.h>
 
