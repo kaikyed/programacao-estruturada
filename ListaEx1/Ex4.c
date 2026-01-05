@@ -1,4 +1,3 @@
-// DCE05858 - ProgramaÁ„o II (UFES)
 // Modifique o programa anterior para imprimir a m√©dia aritm√©tica com 3 casas decimais. 
 
 #include <stdio.h>

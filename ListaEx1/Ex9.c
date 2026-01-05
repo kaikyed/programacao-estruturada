@@ -1,4 +1,3 @@
-// DCE05858 - Programação II (UFES)
 // Leia o tamanho do lado de um quadrado e imprima como resultado a sua Ã¡rea. 
 
 #include <stdio.h>

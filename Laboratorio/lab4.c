@@ -1,4 +1,3 @@
-// DCE05858 - Programa��o II (UFES)
 // Exercício: Escreva um programa que conta e mostra na tela o número de vezes em que o
 // número 7 é digitado pelo usuário. O programa lê números inteiros até que o número -1
 // seja digitado.

@@ -1,4 +1,3 @@
-// DCE05858 - Programa��o II (UFES)
 // Três amigos jogaram na loteria. Caso eles ganhem, o prêmio deve ser repartido
 // proporcionalmente ao valor que cada deu para a realização da aposta. Faça um programa
 // que leia quanto cada apostador investiu, o valor do prêmio, e imprima quanto cada um

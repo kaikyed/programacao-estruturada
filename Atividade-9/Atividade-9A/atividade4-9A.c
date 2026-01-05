@@ -1,4 +1,3 @@
-// DCE05858 - Programação II (UFES)
 #include <stdio.h>
 #include <string.h>
 

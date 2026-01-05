@@ -1,4 +1,3 @@
-// DCE05858 - ProgramaÁ„o II (UFES)
 // Leia um n√∫mero inteiro de 4 d√≠gitos (de 1000 a 9999) e imprima 1 d√≠gito por linha. 
 
 #include <stdio.h>

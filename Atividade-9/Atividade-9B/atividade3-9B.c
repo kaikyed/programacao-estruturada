@@ -1,4 +1,3 @@
-// DCE05858 - Programação II (UFES)
 #include <stdio.h>
 
 // Salve e leia mÃºltiplos registros:

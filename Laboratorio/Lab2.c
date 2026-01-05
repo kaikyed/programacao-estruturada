@@ -1,4 +1,3 @@
-// DCE05858 - Programa��o II (UFES)
 // Escreva um programa em C que leia três números inteiros e imprimaos em ordem crescente. Para resolver, utilize apenas ifs aninhados
 // (não use operadores lógicos como && ou ||, nem funções de ordenação).
 

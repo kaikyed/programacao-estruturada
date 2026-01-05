@@ -1,4 +1,3 @@
-// DCE05858 - Programação II (UFES)
 #include <stdio.h>
 
 // Crie e leia um vetor de inteiros binÃ¡rio:
