@@ -1,3 +1,4 @@
+// DCE05858 - Programa��o II (UFES)
 // Implemente e teste um programa que leia as coordenadas de dois pontos e calcule a
 // distância entre eles, utilizando a função double sqrt(double x); da biblioteca padrão math.h.
 // Lembre-se que a distância entre dois pontos é dada pela seguinte fórmula: 𝑑= √(𝑥2−𝑥1)2+

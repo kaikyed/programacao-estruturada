@@ -1,3 +1,4 @@
+// DCE05858 - Programação II (UFES)
 #include <stdio.h>
 
 // Crie um programa em C que abra o arquivo dados.txt, criado no exercÃ­cio anterior, e exiba seu

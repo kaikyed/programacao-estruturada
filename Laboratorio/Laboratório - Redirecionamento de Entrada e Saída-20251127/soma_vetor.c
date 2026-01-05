@@ -1,3 +1,4 @@
+// DCE05858 - Programação II (UFES)
 #include <stdio.h>
 
 #define MAX 1000

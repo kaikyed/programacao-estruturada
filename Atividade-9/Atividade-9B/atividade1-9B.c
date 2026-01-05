@@ -1,3 +1,4 @@
+// DCE05858 - Programação II (UFES)
 #include <stdio.h>
 
 // Grave e leia uma struct em um arquivo binÃ¡rio:

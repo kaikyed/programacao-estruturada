@@ -1,3 +1,4 @@
+// DCE05858 - ProgramaÁ„o II (UFES)
 // Implemente e teste um programa que leia 3 n√∫meros inteiros e imprima a sua m√©dia
 // aritm√©tica. 
 
