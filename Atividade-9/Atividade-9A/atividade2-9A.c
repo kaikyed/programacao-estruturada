@@ -9,7 +9,7 @@ int main (){
     char linha[50];
     arquivo = fopen("dados.txt", "r");
 
-   if (arquivo == NULL){
+    if (arquivo == NULL){
     
         printf("Erro ao abrir o arquivo!\n");
         return 1;

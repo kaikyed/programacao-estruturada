@@ -5,11 +5,26 @@
 
 int main(){
 
+    FILE* arquivo;
+    int multiplo;
+    int i;
+    arquivo = fopen("multiplos7.txt", "w");
 
+    if (arquivo == NULL){
 
+        printf("Erro ao abrir o arquivo!\n");
+        return 1;
 
+    }
 
+    for (i = 7; i <= 94375; i += 7)
+    {
 
+        fprintf(arquivo, "%d\n", i);
 
+    }
+
+    fclose(arquivo);
+    
     return 0;
 }
